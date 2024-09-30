@@ -31,11 +31,11 @@ I'm a **FullStack Developer** with 4+ years of experience in building web applic
 
 ## My GitHub Stats
 
-![Arunkumar2611's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar2611&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+!![Arunkumar2611's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar2611&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arunkumar2611&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arunkumar2611&theme=dracula)
 
 ## GitHub Trophies
 
