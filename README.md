@@ -5,8 +5,8 @@ I'm a **FullStack Developer** with 4+ years of experience in building web applic
 - 🔭 I’m currently working on: **Machine learning models**
 - 🌱 I’m currently learning: **Machine Learning** and **Career Development**
 - 👯 I’m looking to collaborate on: **Open Source Projects** and **Full Stack Development**
-- 💬 Ask me about: **React**, **Node.js**, **Material-UI**, **MongoDB**, and **UI/UX Design**
-- 📫 How to reach me: [Arunkumar923gole@gmail.com]
+- 💬 Ask me about: **React**, **Node.js**, **Material-UI**, **MongoDB**, **Python**, **Pandas**, **FastAPI**, and **UI/UX Design**
+- 📫 How to reach me: [arunkumar923gole@gmail.com]
 
 ## 🚀 Technologies & Tools
 
@@ -14,6 +14,11 @@ I'm a **FullStack Developer** with 4+ years of experience in building web applic
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -30,7 +35,7 @@ I'm a **FullStack Developer** with 4+ years of experience in building web applic
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Arunkumar2611&theme=dracula)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arunkumar2611&theme=dracula)
 
 ## GitHub Trophies
 
@@ -40,4 +45,4 @@ I'm a **FullStack Developer** with 4+ years of experience in building web applic
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-- Email: [yourname@example.com]
+- Email: [arunkumar923gole@gmail.com]
